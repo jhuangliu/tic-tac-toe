@@ -26,3 +26,10 @@ start a new game
 
 gold: 
 record wins / losses / ties over a series of games 
+
+## Wireframes
+
+```md
+![TIc Tac Toe wireframe]<img width="647" alt="Screen Shot 2021-08-25 at 11 56 45 AM" src="https://user-images.githubusercontent.com/88592720/130824546-c1d8655d-fe0c-4602-aad9-6d700b7d7a06.png">
+```
+
